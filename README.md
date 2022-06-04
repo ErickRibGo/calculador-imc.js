@@ -13,3 +13,5 @@ No CSS, usei cores não chamativas e o background foi uma imagem bem armoniosa c
 OBS: A imagem de backgroud do site as vezes aparece e as vezes não, tentei solucionar o problema mas não consegui.
 
 ![Captura de tela 2022-06-04 152137](https://user-images.githubusercontent.com/100303082/172020618-fbbff2c4-3c23-4b17-8e6e-82763650fec0.png)
+
+![WhatsApp Image 2022-06-04 at 15 38 15](https://user-images.githubusercontent.com/100303082/172021206-9dbf1148-07ba-489a-bade-42da86b7b34b.jpeg)

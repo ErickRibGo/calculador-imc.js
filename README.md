@@ -12,6 +12,15 @@ No CSS, usei cores não chamativas e o background foi uma imagem bem armoniosa c
 
 OBS: A imagem de backgroud do site as vezes aparece e as vezes não, tentei solucionar o problema mas não consegui.
 
+body
+{
+  background-image: url(../img/academia.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+}
+
 Abaixo tenho prints do site funcionando no celular e no desktop.
 
 ![Captura de tela 2022-06-04 152137](https://user-images.githubusercontent.com/100303082/172020618-fbbff2c4-3c23-4b17-8e6e-82763650fec0.png)
